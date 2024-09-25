@@ -10,7 +10,7 @@
 # 💻 Tech Stack:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,anaconda,androidstudio" /><br>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,html,css,js,mysql" /><br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,kotlin,html,css,js" /><br>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
