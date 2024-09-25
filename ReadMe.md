@@ -12,7 +12,7 @@
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,ecclips,idea,anaconda,androidstudio,c,cpp,java,kotlin,html,css,js,mysql" />
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,anaconda,androidstudio,c,cpp,java,kotlin,html,css,js,mysql" />
   </a>
 </p>
 
