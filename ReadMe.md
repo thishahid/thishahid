@@ -9,7 +9,9 @@
 
 # 💻 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,anaconda,androidstudio,c,cpp,java,kotlin,html,css,js,mysql" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,anaconda,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,html,css,js,mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 # 📊 GitHub Stats:
