@@ -3,12 +3,16 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thishahid) 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin,github,discord,reddit,instagram," />
+  </a>
+</p>
 
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,anaconda,androidstudio,c,cpp,java,kotlin,html,css,js,mysql" />
+    <img src="https://skillicons.dev/icons?i=vscode,ecclips,idea,anaconda,androidstudio,c,cpp,java,kotlin,html,css,js,mysql" />
   </a>
 </p>
 
