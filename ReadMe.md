@@ -4,16 +4,12 @@
 
 ## 🌐 Socials:
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin,github,discord,instagram," />
-  </a>
+  <img src="https://skillicons.dev/icons?i=linkedin,github,discord,instagram," />
 </p>
 
 # 💻 Tech Stack:
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,anaconda,androidstudio,c,cpp,java,kotlin,html,css,js,mysql" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,anaconda,androidstudio,c,cpp,java,kotlin,html,css,js,mysql" />
 </p>
 
 # 📊 GitHub Stats:
