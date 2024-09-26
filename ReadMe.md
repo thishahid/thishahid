@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linkedin,github,discord,instagram," href="https://www.linkedin.com/in/shahid-khan-2400b9292/?originalSubdomain=in" />
+  <a href="https://www.linkedin.com/in/shahid-khan-2400b9292/?originalSubdomain=in"><img src="https://skillicons.dev/icons?i=linkedin,github,discord,instagram,"/></a>
 </p>
 
 # 💻 Tech Stack:
