@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/shahid-khan-2400b9292/?originalSubdomain=in"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
   <a href="https://www.instagram.com/thishahid"><img src="https://skillicons.dev/icons?i=instagram"/></a>
-  <a href="https://www.linkedin.com/in/shahid-khan-2400b9292/?originalSubdomain=in"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/shahid-khan-2400b9292/?originalSubdomain=in"><img src="https://skillicons.dev/icons?i=discord"/></a>
 </p>
 
 # 💻 Tech Stack:
