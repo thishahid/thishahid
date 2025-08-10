@@ -5,15 +5,15 @@
 ## 🌐 Socials:
 <p align="center">
   <a href="https://www.linkedin.com/in/shahid-khan-2400b9292/?originalSubdomain=in"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-  <a href="https://www.instagram.com/thishahid"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+  <a href="https://www.instagram.com/sidpamz"><img src="https://skillicons.dev/icons?i=instagram"/></a>
   <a href="https://www.linkedin.com/in/shahid-khan-2400b9292/?originalSubdomain=in"><img src="https://skillicons.dev/icons?i=discord"/></a>
 </p>
 
 # 💻 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,anaconda,androidstudio" /><br>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,kotlin,html,css,js" /><br>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,anaconda,androidstudio,gcp" /><br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,kotlin,dart,flutter,html,css,js,typescript,react" /><br>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase," />
 </p>
 
 # 📊 GitHub Stats:
