@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,anaconda,androidstudio,gcp,firebase,supabase" /><br>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,kotlin,dart,flutter,html,css,js,typescript,react" /><br>
-  <img src="https://skillicons.dev/icons?i=" />
+  <img src="https://skillicons.dev/icons?i=sql,mysql,postgresql" />
 </p>
 
 # 📊 GitHub Stats:
