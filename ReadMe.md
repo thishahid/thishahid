@@ -12,8 +12,18 @@
 # 💻 Tech Stack:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,anaconda,androidstudio,gcp,firebase,supabase" /><br>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,kotlin,dart,flutter,html,css,js,typescript,react" /><br>
-  <img src="https://skillicons.dev/icons?i=sql,mysql,postgresql" />
+</p align="center">
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,kotlin,dart,flutter,html,css,js,typescript,react&perline=8" /><br>
+</p align="center">
+
+---
+
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,mysql,postgresql" />
 </p>
 
 # 📊 GitHub Stats:
