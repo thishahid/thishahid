@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓BTech Student major in computer science<br>🔭 I’m currently working on my own<br>👯 I’m looking to collaborate on Github<br>🤝 I’m looking for help with Artificial Intelligence<br>🌱 I’m currently learning Android Development
+🎓 BTech Student major in computer science<br>🔭 I’m currently working on my own<br>👯 I’m looking to collaborate on Github<br>🤝 I’m looking for help with Artificial Intelligence<br>🌱 I’m currently learning Android Development
 
 
 ## 🌐 Socials:
