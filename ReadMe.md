@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/shahid-khan-2400b9292/?originalSubdomain=in"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
   <a href="https://www.instagram.com/thishahid"><img src="https://skillicons.dev/icons?i=instagram"/></a>
   <a href="https://discord.com/users/sid.this"><img src="https://skillicons.dev/icons?i=discord"/></a>
-<a href="mailto:shiekhshahidkhan@gmail.com"><img src="https://skillicons.dev/icons?I=gmail"/></a>
+<a href="mailto:shiekhshahidkhan@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
 
 # 💻 Tech Stack:
