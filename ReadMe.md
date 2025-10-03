@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 BTech Student major in computer science<br>
+🎓 BTech Student computer science<br>
 🌕 Finding peace in this chaotic world<br>
 
 ## 🌐 Socials:
