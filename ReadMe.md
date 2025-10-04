@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 BTech Student computer science<br>
+🎓 BTech Student<br>
 🌕 Finding peace in this chaotic world<br>
 
 ## 🌐 Socials:
