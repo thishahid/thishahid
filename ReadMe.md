@@ -9,6 +9,7 @@
   <a href="https://www.instagram.com/thishahid"><img src="https://skillicons.dev/icons?i=instagram"/></a>
   <a href="https://discord.com/users/sid.this"><img src="https://skillicons.dev/icons?i=discord"/></a>
 <a href="mailto:shiekhshahidkhan@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="https://x.com/thishahiid"><img src="https://skillicons.dev/icons?i=x"/></a>
 </p>
 
 # 💻 Tech Stack:
