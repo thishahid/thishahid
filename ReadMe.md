@@ -14,7 +14,7 @@
 
 # 💻 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,anaconda,androidstudio,gcp,firebase,supabase,netlify,docker&perline=8" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,idea,anaconda,androidstudio,gcp,firebase,supabase,netlify,docker,expo&perline=8" /><br>
 </p align="center">
 
 ---
