@@ -1,4 +1,4 @@
-# 💫 About Me: Not so special 
+# 💫 About Me:
 🎓 BTech Student<br>
 🫡 Let's chat for a bit<br>
 🌕 Finding peace in this chaotic world<br>
