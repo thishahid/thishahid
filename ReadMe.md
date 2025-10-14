@@ -20,7 +20,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,kotlin,dart,flutter,html,css,tailwind,js,nodejs,typescript,nextjs,react,vue&perline=8" /><br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,kotlin,dart,flutter,html,css,tailwind,js,nodejs,typescript,nextjs,react,vue&perline=8" /><br>
 </p align="center">
 
 ---
