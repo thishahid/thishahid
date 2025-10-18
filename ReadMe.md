@@ -31,7 +31,7 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav89624&theme=neon-dark&hide_border=false"/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thishahid&theme=neon-dark&hide_border=false"/><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thishahid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
 
